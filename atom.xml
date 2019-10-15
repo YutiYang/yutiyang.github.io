@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yutiyang.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-10-15T03:30:10.787Z</updated>
+    <title>YutiYang</title>
+    <updated>2019-10-15T07:37:49.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yutiyang.github.io"/>
     <link rel="self" href="https://yutiyang.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>赚第一桶美金</subtitle>
     <logo>https://yutiyang.github.io/images/avatar.png</logo>
     <icon>https://yutiyang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, YutiYang</rights>
     <entry>
         <title type="html"><![CDATA[初心：长出自由的羽翼，飞向独立的世界]]></title>
         <id>https://yutiyang.github.io/post/chu-xin-chang-chu-zi-you-de-yu-yi-fei-xiang-du-li-de-shi-jie</id>
